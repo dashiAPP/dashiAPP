@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 大石</h1>
-<h3 align="center">A passionate frontend developer from hangzhou of china</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on
 
