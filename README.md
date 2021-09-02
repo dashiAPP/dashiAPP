@@ -1,20 +1,20 @@
-Hi 👋, I'm dashi
+#Hi 👋, I'm dashi
 
-🌱 I’m currently learning react,webpack,ts
+### 🌱 I’m currently learning 
 
-👯 I’m looking to collaborate on 
+### 👯 I’m looking to collaborate on 
 
-🤝 I’m looking for help with 
+### 🤝 I’m looking for help with 
 
-👨‍💻 All of my projects are available at 
+### 👨‍💻 All of my projects are available at 
 
-📝 I regularly write articles on 
-💬 Ask me about node.js,egg.js,vue,docker,mysql
+### 📝 I regularly write articles on 
+### 💬 Ask me about node.js,egg.js,vue,docker,mysql
 
-📫 How to reach me 
+### 📫 How to reach me 
 
-📄 Know about my experiences 
+### 📄 Know about my experiences 
 
-⚡ Fun fact Be an interesting person
+### ⚡ Fun fact Be an interesting person
 
 
