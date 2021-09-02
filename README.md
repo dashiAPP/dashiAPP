@@ -1,16 +1,24 @@
 ### Hi there 👋
+Hi 👋, I'm ronaldoxzb
+A passionate frontend developer from hangzhou of china
+🔭 I’m currently working on egg-spider
 
-<!--
-**dashiAPP/dashiAPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning react,webpack,ts
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on egg-spider
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with midway.js
+
+👨‍💻 All of my projects are available at ronaldoxzb.com
+
+📝 I regularly write articles on ronaldoxzb.com
+
+💬 Ask me about node.js,egg.js,vue,docker,mysql
+
+📫 How to reach me queenxzb@gmail.com
+
+📄 Know about my experiences ronaldoxzb.com
+
+⚡ Fun fact Be an interesting person
+
+
