@@ -1,23 +1,19 @@
-### Hi there 👋
-Hi 👋, I'm ronaldoxzb
-A passionate frontend developer from hangzhou of china
-🔭 I’m currently working on egg-spider
+Hi 👋, I'm dashi
 
 🌱 I’m currently learning react,webpack,ts
 
-👯 I’m looking to collaborate on egg-spider
+👯 I’m looking to collaborate on 
 
-🤝 I’m looking for help with midway.js
+🤝 I’m looking for help with 
 
-👨‍💻 All of my projects are available at ronaldoxzb.com
+👨‍💻 All of my projects are available at 
 
-📝 I regularly write articles on ronaldoxzb.com
-
+📝 I regularly write articles on 
 💬 Ask me about node.js,egg.js,vue,docker,mysql
 
-📫 How to reach me queenxzb@gmail.com
+📫 How to reach me 
 
-📄 Know about my experiences ronaldoxzb.com
+📄 Know about my experiences 
 
 ⚡ Fun fact Be an interesting person
 
