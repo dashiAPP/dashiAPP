@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm ronaldoxzb</h1>
+<h1 align="center">Hi 👋, I'm 大石</h1>
 <h3 align="center">A passionate frontend developer from hangzhou of china</h3>
 
-- 🔭 I’m currently working on [egg-spider](https://github.com/ronaldoxzb/egg-spider)
+- 🔭 I’m currently working on
 
-- 🌱 I’m currently learning **react,webpack,ts**
+- 🌱 I’m currently learning
 
-- 👯 I’m looking to collaborate on [egg-spider](https://github.com/ronaldoxzb/egg-spider)
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with [midway.js](https://www.yuque.com/midwayjs/midway_v2/lifecycle)
+- 🤝 I’m looking for help with 
 
-- 👨‍💻 All of my projects are available at [ronaldoxzb.com](ronaldoxzb.com)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [ronaldoxzb.com](ronaldoxzb.com)
+- 📝 I regularly write articles on 
+- 💬 Ask me about
 
-- 💬 Ask me about **node.js,egg.js,vue,docker,mysql**
+- 📫 How to reach me 
+- 📄 Know about my experiences 
 
-- 📫 How to reach me **queenxzb@gmail.com**
-
-- 📄 Know about my experiences [ronaldoxzb.com](ronaldoxzb.com)
-
-- ⚡ Fun fact **Be an interesting person**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
